@@ -1,2 +1,9 @@
-# CODTECH-Task-2
-  VULNERABILITY SCANNING TOOL
+Name :  
+Company : 
+ID : 
+Domain : 
+Duration : 
+Mentor : 
+
+# Overview Of The Project 
+Project : VULNERABILITY SCANNING TOOL
