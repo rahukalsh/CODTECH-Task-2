@@ -1,3 +1,8 @@
+### Important Note ###
+#  Add/Install the required module 
+# 1.  pip install pyfiglet
+# 1.  pip install requests
+
 import socket
 import sys
 import threading
