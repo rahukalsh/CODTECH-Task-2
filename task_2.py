@@ -1,5 +1,5 @@
 ### Important Note ###
-#  Add/Install the required module 
+#  Add/Install the required module that is pyfiglet & requests.
 # 1.  pip install pyfiglet
 # 1.  pip install requests
 
